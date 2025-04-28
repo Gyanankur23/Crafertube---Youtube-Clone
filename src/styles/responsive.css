@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+
+  aside {
+    width: 100%;
+  }
+
+  .video-card {
+    width: 100%;
+  }
+}
