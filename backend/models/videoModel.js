@@ -9,4 +9,6 @@ const videoSchema = new mongoose.Schema({
 });
 
 
+const recommendations= {
 module.exports = mongoose.model("Video", videoSchema);
+};
