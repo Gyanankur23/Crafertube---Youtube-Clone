@@ -1,6 +1,58 @@
 :root {
+  /* Primary Colors */
+  --primary-orange: #ff6b35;
+  --primary-orange-hover: #e55a2b;
   --primary-blue: #1e3a8a;
-  --secondary-orange: #f97316;
-  --background-black: #0f172a;
-  --text-light: #f1f5f9;
+  --primary-blue-hover: #1e40af;
+  
+  /* Background Colors */
+  --background-primary: #0f172a;
+  --background-secondary: #1e293b;
+  --background-tertiary: #334155;
+  --background-card: #1e293b;
+  --background-hover: #334155;
+  
+  /* Text Colors */
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --text-inverse: #0f172a;
+  
+  /* Border Colors */
+  --border-primary: #334155;
+  --border-secondary: #475569;
+  --border-focus: #ff6b35;
+  
+  /* Status Colors */
+  --success: #10b981;
+  --warning: #f59e0b;
+  --error: #ef4444;
+  --info: #3b82f6;
+  
+  /* Shadow Colors */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1);
+  
+  /* YouTube-like Color Scheme */
+  --youtube-red: #ff0000;
+  --youtube-dark: #282828;
+  --youtube-darker: #0f0f0f;
+  
+  /* Semantic Colors */
+  --like-color: #3b82f6;
+  --dislike-color: #64748b;
+  --subscribe-color: #ff6b35;
+  --subscribe-hover: #e55a2b;
+}
+
+/* Dark Mode Overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-primary: #0f172a;
+    --background-secondary: #1e293b;
+    --text-primary: #f1f5f9;
+    --text-secondary: #94a3b8;
+  }
 }
