@@ -4,6 +4,7 @@ A fully functional YouTube clone built with React and Node.js, featuring video u
 
 ## 🚀 Features
 
+
 ### Frontend (React)
 - **Home Page**: Browse trending videos with infinite scroll
 - **Video Player**: Full-featured video player with comments, likes, and recommendations
