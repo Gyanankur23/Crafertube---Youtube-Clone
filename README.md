@@ -14,6 +14,7 @@ A fully functional YouTube clone built with React and Node.js, featuring video u
 - **Search & Filter**: Advanced video discovery with category filtering
 - **Dark Theme**: Modern dark mode interface
 
+
 ### Backend (Node.js)
 - **RESTful API**: Complete CRUD operations for videos and users
 - **Authentication**: JWT-based authentication with bcrypt password hashing
