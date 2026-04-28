@@ -98,7 +98,7 @@ cd backend
 npm run dev
 ```
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/signup` - Register new user
