@@ -2,7 +2,7 @@
 
 A fully functional YouTube clone built with React and Node.js, featuring video upload, user authentication, and a modern UI.
 
-## 🚀 Features
+##  Features
 
 ### Frontend (React)
 - **Home Page**: Browse trending videos with infinite scroll
