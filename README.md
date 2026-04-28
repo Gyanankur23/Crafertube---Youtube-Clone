@@ -23,7 +23,7 @@ A fully functional YouTube clone built with React and Node.js, featuring video u
 - **Security**: Rate limiting, CORS, helmet, and input validation
 - **Error Handling**: Comprehensive error handling and logging
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - UI framework
