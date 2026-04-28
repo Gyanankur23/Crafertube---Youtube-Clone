@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React and Node.js communities
 - All contributors who help improve this project
 
-## 📞 Support
+##  Support
 
 If you have any questions or need help, please open an issue on GitHub or contact the maintainer.
 
