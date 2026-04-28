@@ -42,7 +42,7 @@ A fully functional YouTube clone built with React and Node.js, featuring video u
 - **Multer** - File upload handling
 - **Bcrypt** - Password hashing
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js (v16 or higher)
